@@ -1,0 +1,1 @@
+{"name":"Local: 15655","url":"/workspaces/seo-code/15655.py","tests":[{"id":1752988774038,"input":"4 2\n9 8 7 1","output":"1 7\n1 8\n1 9\n7 8\n7 9\n8 9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/seo-code/15655.py","group":"local","local":true}
